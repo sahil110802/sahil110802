@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil110802&label=Profile%20views&color=0e75b6&style=flat" alt="sahil110802" /> </p>
 
-- 🌱 Interested in **Business Analysis, Web Development, Software Development, Open Source**
+- 🌱 Interested in **Business Analysis**
 
 - 💬 Ask me about **Anything, I'd love to answer**
 
