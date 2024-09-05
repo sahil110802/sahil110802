@@ -4,12 +4,12 @@
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil110802&label=Profile%20views&color=0e75b6&style=flat" alt="sahil110802" /> </p>
 
-- 🌱 Interested in **Business Analysis**
+- 🌱 Interested in **Software Engineering, Web Development and Competitive Programming.**
 
 - 💬 Ask me about **Anything, I'd love to answer**
 
-- 📫 How to reach me **sahilsahu.official11@gmail.com**
-
+- 📫 How to reach me **sahilsahu.official2002@gmail.com**
+- <a href="https://sahilsahu.netlify.app/" target="_blank" rel="noreferrer">https://sahilsahu.netlify.app/</a>
 
 
 
